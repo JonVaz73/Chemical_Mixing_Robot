@@ -27,4 +27,8 @@ Future Work:
 
 Thank you for looking through my project, feel free to ask question and I can answer to the best of my ability.
 All python and arduino files will be included.
-  
+
+
+Library Used for both Python and Arduino in github is:
+https://github.com/ccourson/xArmServoController
+Special thanks to them for publicly having this library for others to use. 
